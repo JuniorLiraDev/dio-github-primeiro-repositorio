@@ -1,6 +1,6 @@
 Anotações
 
-## ** Comandos Básicos**
+## **Comandos Básicos**
 - cd
 - ls
 - mkdir
