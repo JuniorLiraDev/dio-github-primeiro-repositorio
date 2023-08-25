@@ -15,7 +15,7 @@ Sejam Bem-Vindos (a)
 Repositório criado para o desafio de Projeto sobre Git/GitHub.  
 Aqui você encontrará algumas anotações pessoais de alguns cursos realizados na plataforma da DIO.<br> Espero que esse repositório te ajude a trilhar essa nova jornada rumo ao mundo da tecnologia.
 
-## 📲**Conecte-se Comigo**
+> ## 📲**Conecte-se Comigo**
 
 > ## **Lista dos cursos**
 
@@ -32,7 +32,7 @@ Aqui você encontrará algumas anotações pessoais de alguns cursos realizados 
 - `HTML`
 - `VsCode`
 
-## **Autores**
+> ## **Autores**
 
 > ## 🔗**_Links Úteis_**
 >
